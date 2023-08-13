@@ -1,0 +1,27 @@
+1.ls            		--> list item
+2.pwd 				--> print to know where i am currently?
+3.clear 			--> to clear screen
+4.cd 				--> Enter in particular folder [ cd desktop/delta ]
+5.cd .. 			--> back button[space between cd and dot( .. )]
+6.cd ../.. 			--> double back to previous folder
+7.mkdir 			--> to create a new folder
+8.ls -a or ls -l 		--> to get more details
+9.touch 			--> to create a file inside a folder(.txt or any type of file)
+10.rm				--> remove files
+11.rmdir			--> removes empty folders
+12.rm -rf(recursive force)	--> removes any folders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
